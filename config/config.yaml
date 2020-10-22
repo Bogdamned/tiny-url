@@ -1,0 +1,6 @@
+port: "8000"
+
+db:
+    addr: "localhost:6379"
+    password: ""
+    db: 0
